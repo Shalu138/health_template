@@ -1,0 +1,87 @@
+/*Primary(Blue)*/
+.color-default{
+	color: #009abb;
+}
+/*Secondary(Dark-blue)*/
+.color-pink{
+	color: #006075;
+}
+/*Blue Background*/
+.bg-default{
+	background-color: #009abb;
+}
+
+@media screen and (max-width: 354px){
+	.medical-nav .medical-nav-toggle{
+		background-color: #009abb!important;
+	}
+}
+@media screen and (max-width: 600px){
+	.medical-nav .medical-nav-toggle{
+		background-color: #009abb!important;
+	}
+}
+
+/*Top Header*/
+.top-head .media-icon{
+    background-color: #009abb;
+}
+.appoint-btn{
+	background-color: #009abb!important;
+}
+/*Search Icon*/
+.search-icon:hover{
+	color:#006075;
+	background: #009abb;
+}
+/*Navigation*/
+.navbar{
+	border: none!important;
+}
+.medical-nav{
+	background: #009abb!important;
+}
+#myNav ul li a:hover{
+	border-bottom: 2px solid #006075;
+}
+#myNav ul li .active{
+	border-bottom: 2px solid #006075;
+}
+/*Home Page*/
+.medical-icon:hover{
+	border-color: #009abb;
+}
+/*Medical Services*/
+.medical-title span::before{
+	background-color: #009abb;
+}
+.medical-title span::after{
+	background-color: #009abb;
+}
+.service-div:hover{
+	background-color: #009abb;
+}
+/*Specialist*/
+.medical-team-info{
+    background: #009abb;
+}
+.medical-team-icon-list{
+	background: #009abb;
+}
+
+/*Skew Image*/
+.about-content-icon{
+    color: #009abb;
+}
+/*Panel*/
+.panel-title a[aria-expanded="true"]:before {
+    background-color: #009abb;
+}
+.panel-title a:before {
+    	background-color: #009abb;
+}
+/*About us page 2*/
+
+.page2-right-title:after{
+	background-color: #009abb;
+}
